@@ -1,0 +1,18 @@
+
+
+setting up parsers for form
+
+setting up ejs for ejs pages
+    (ejs is like html but it can do dynamic calculation)
+    -> install ejs from npm
+    -> setup ejs as a for view engine
+
+setting up public static file
+
+dynamic routing
+    -> sabse pahle browser par jaao
+    -> url likhiye apna jo aapko chahiye and enter dabaaiye
+    -> ab us url route ko create kariye
+    -> res bhejiye kuchh bhi
+    -> ab usi url ko agar dynamic banana hai to realise karo konsa part dynamic hai aur us part ke aage route mein : lago do
+how to get data coming from frontend at backend route

@@ -1,0 +1,6 @@
+authentication and authorization
+
+sabse pahle humein kuchh cheejein seekhni hai alag alag
+i) cookie kaise set karte hai
+ii) bcrypt kaise use karte hai for password encryption and decryption
+iii) jwt kya hai and jwt mein data kaise store karein and baahar nikaalein
